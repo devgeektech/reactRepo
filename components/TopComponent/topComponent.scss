@@ -1,0 +1,25 @@
+:local {
+    .email-top-1 {
+        position: relative;
+        display: inline-block;
+        float: right;
+        right: 152px;
+        margin: 0;
+    }
+
+    .loader-top-nav {
+        position: relative;
+        display: inline-block;
+        float: right;
+        right: 365px;
+        top: 7px;
+        margin: 0;
+    }
+    .email-top-1 .form-control{margin: 0;padding: 0 10px;}
+    .email-top-btn1{position: absolute;right:75px;top: 24px;}
+    .email-top-btn2{position: absolute;right:0px;top: 24px;}
+    .searchInput {
+        height: 24px;
+    }
+}
+
